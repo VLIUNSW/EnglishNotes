@@ -13,7 +13,7 @@ Markdown Template for Notes:
 
 ### Vocabulary
 
-1. ***example word***: meanig
+1. ***example word***: meaning
 
 > E.g. sample sentence
 
