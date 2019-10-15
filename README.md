@@ -8,7 +8,7 @@ Markdown Template for Notes:
 
 ### Useful Sentences and Phrases
 
-1. Example sentence with **phrases or words in bold**.
+1. Example sentence with **phrases or words in bold**.  
 `phrases or words in bold`:
 
 ### Vocabulary
