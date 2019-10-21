@@ -10,7 +10,8 @@ Markdown Template for Notes:
 
 1. Example sentence with **phrases or words in bold**.  
 `phrases or words in bold`:  
-> Phrases with similar meaning
+> synonym
+> antonym
 
 2. ***Phrase alone***: meaning
 
