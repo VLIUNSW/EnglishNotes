@@ -11,8 +11,12 @@
 
 ### Vocabulary
 
-1. ***example word***: meaning
+1. ***coterie***: a small group of people with shared interests, especially one that is exclusive of other people.  
 
-> E.g. sample sentence
+2. ***vax***: informal word for vaccine.  
+
+3. ***blitz***: an intensive or sudden military attack.  
+
+> E.g. NSW hospitals elective surgery blitz before coronavirus crunch.  
 
 ### Slangs  
