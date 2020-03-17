@@ -7,9 +7,15 @@
 `stave off`:  to ward off (something adverse)  
 > synonym: fend off, ward off  
 
-2. ***pull the pin***: St Michael's Grammar in St Kilda has joined the procession of Victorian non-government schools pulling the pin on classes.   
+2. St Michael's Grammar in St Kilda has joined the procession of Victorian non-government schools ***pulling the pin on*** classes.   
 `pull the pin`: (colloquial) To opt out; to withdraw; to resign.  
-> synonym: pull the plug
+> synonym: pull the plug  
+
+3. We eat probably not pizza or anything shared as to ***tip our hats*** to caution.  
+`tip hat to somthing`: to give credit or praise for.  
+
+4. We can't make a decision yet. Let's just ***play it by ear***.  
+`play it by ear`: to decide how to deal with a situation as it develops, rather than acting according to plans made earlier.  
 
 ### Vocabulary
 
