@@ -27,4 +27,13 @@
 
 > E.g. NSW hospitals elective surgery blitz before coronavirus crunch.  
 
+4. ***weather***: withstand a difficulty or danger.  
+
+> E.g. We are able to weather the crisis/recession.  
+
+5. ***husband***: manage economically.  
+
+6. ***vector***: in medicine, a carrier of disease or medication.  
+
+
 ### Slangs  
