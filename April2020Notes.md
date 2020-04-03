@@ -9,7 +9,7 @@
 
 2. ***birds of a feather***: people who are similar in character.  
 
-3. 
+3. ***toe the mark/line ***: to adhere or conform to the rules of something.
 > synonym
 > antonym
 
