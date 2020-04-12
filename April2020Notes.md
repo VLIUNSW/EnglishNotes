@@ -11,7 +11,7 @@
 
 3. ***toe the mark/line***: to adhere or conform to the rules of something.  
 
-4. He is ***a chip off the old block*** .
+4. He is ***a chip off the old block***.    
 `a chip off the old block`: someone who resembles their parent in character or appearance.  
 > synonym: He is ***the spitting image of his father***.
 
